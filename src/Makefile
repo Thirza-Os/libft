@@ -5,8 +5,8 @@
 #                                                      +:+                     #
 #    By: tosinga <tosinga@student.42.fr>              +#+                      #
 #                                                    +#+                       #
-#    Created: 2022/02/02 18:40:40 by tosinga       #+#    #+#                  #
-#    Updated: 2022/02/02 18:40:40 by tosinga       ########   odam.nl          #
+#    Created: 2022/04/05 14:09:05 by tosinga       #+#    #+#                  #
+#    Updated: 2022/04/05 14:09:06 by tosinga       ########   odam.nl          #
 #                                                                              #
 # **************************************************************************** #
 
@@ -58,6 +58,7 @@ BONUS_SRC = 	ft_lstnew.c \
 				ft_lstclear.c \
 				ft_lstiter.c \
 				ft_lstmap.c 
+
 
 HEADER		=	libft.h
 OBJECTS		=	$(SRC:.c=.o)
